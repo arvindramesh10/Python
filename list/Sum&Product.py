@@ -7,7 +7,6 @@ import math
 total = math.prod(a)
 print("PRODUCT =",total)
 
-
 #TASK 2 - Remove Space from a String
 
 s = "O C E A N"

@@ -1,4 +1,4 @@
-
+# SEPERATING EVEN AND ODD NUMBERS FROM A LIST
 no = [1,2,3,4,5,6]
 odd = []
 even = []
